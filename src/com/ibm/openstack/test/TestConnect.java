@@ -13,8 +13,9 @@ public class TestConnect {
 		List<? extends Image> images = os.images().list();
 		for (Image image : images) {
 			System.out.println("Image Name : "+ image.getName() + " , Status : " + image.getStatus());
-			
 		}
+		
+		//TODO network
 	}
 
 	public static OSClient V2(){
