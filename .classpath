@@ -9,13 +9,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/j2ee"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack4j/openstack4j-2.0.1-20141219.000505-19-withdeps.jar" sourcepath="C:/Users/IBM_ADMIN/Desktop/OpenStack4j/openstack4j-2.0.1-20141219.000505-19-withdeps-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/fluent-hc-4.3.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/httpclient-4.3.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/httpclient-cache-4.3.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/httpcore-4.3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/OpenStack java SDK/httpcomponents-client-4.3.6/lib/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/openstack4j-2.0.1-20141219.000505-19-withdeps.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
